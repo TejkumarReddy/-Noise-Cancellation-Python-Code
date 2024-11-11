@@ -1,5 +1,7 @@
+AudioSegment
 streamlit
 soundfile
 noisereduce
 pedalboard
+pydub
 numpy
